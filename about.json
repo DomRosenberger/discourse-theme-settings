@@ -1,0 +1,6 @@
+{
+    "name": "Theme Settings Component",
+    "about_url": "https://github.com/Nobody109/discourse-theme-settings",
+    "license_url": "https://github.com/Nobody109/discourse-theme-settings/blob/master/LICENSE",
+    "component": true
+}
