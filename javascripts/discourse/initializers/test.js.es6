@@ -1,3 +1,5 @@
+import { withPluginApi } from 'discourse/lib/plugin-api';
+
 function test(api) {
     console.log('Initializer JS code in discourse-theme-settings');
 }
